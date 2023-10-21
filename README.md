@@ -1,1 +1,3 @@
 # SQLFinalProject
+
+##SQL Project on 3 datasets i.e. CENSUS_DATA, CHICAGO_PUBLIC_SCHOOLS_DATA and CHICAGO_CRIME_DATA
